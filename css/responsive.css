@@ -1,0 +1,385 @@
+@media (max-width: 1200px) {
+  .tentang {
+    width: 90%;
+    margin-top: 10px;
+  }
+  .glass-card2 {
+    width: 100%;
+    height: 100%;
+  }
+  #akhir {
+    min-height: 130px;
+    padding-top: 2px;
+  }
+  #akhir p {
+    font-size: 1.1rem;
+  }
+  #akhir h4 {
+    padding-top: 15px;
+  }
+}
+
+@media (max-width: 992px) {
+  .navbar {
+    padding: 5px;
+  }
+  .navbar-toggler {
+    padding: 4px 8px;
+    border-radius: 5px;
+  }
+  .navbar-toggler-icon {
+    width: 1.2em;
+    height: 1.2em;
+  }
+  .navbar-brand {
+    font-weight: 680;
+    font-size: 1.2rem;
+  }
+  #hero {
+    min-height: 530px;
+    padding-top: 30px;
+  }
+  #hero h2 {
+    font-size: 1.4rem;
+  }
+  #hero h1 {
+    font-size: 3.2rem;
+  }
+  #hero h3 {
+    font-size: 1.4rem;
+  }
+  #hero p {
+    font-size: 0.8rem;
+  }
+  .foto1 {
+    width: 70%;
+  }
+  .btn-custom1 {
+    min-width: 110px;
+    height: 35px;
+    font-size: 1rem;
+    border-radius: 6px;
+    padding-top: 3.8px;
+  }
+  .email {
+    width: 18px;
+  }
+  .glass-card {
+    width: 110%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .tentang {
+    width: 100%;
+    margin-top: 24px;
+  }
+  #about h3 {
+    font-size: 1.4rem;
+    margin-top: 14px;
+    margin-bottom: 18px;
+  }
+  #about p {
+    font-size: 1rem;
+  }
+  #skill {
+    margin-bottom: 34px;
+  }
+  .glass-card2 {
+    width: 100%;
+    height: 270px;
+    padding: 20px;
+  }
+  #skill h3 {
+    font-size: 1.4rem;
+    margin-bottom: 14px;
+  }
+  #skill p {
+    font-size: 0.95rem;
+  }
+  .icon {
+    gap: 45px 40px; /* vertikal horizontal */
+  }
+  .projek {
+    padding: 14px 10px;
+    border-radius: 40px;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 18px;
+  }
+  .project-container {
+    gap: 20px;
+  }
+  .project-card {
+    width: 160px;
+    height: 230px;
+    border-radius: 100px 100px 12px 12px;
+    padding-top: 13px;
+  }
+  #projects h4 {
+    font-size: 1.1rem;
+  }
+  .detail-btn {
+    font-size: 0.9rem;
+    margin-top: 5px;
+    padding: 6px 16px;
+    border-radius: 30px;
+  }
+  #akhir {
+    min-height: 130px;
+    padding-top: 2px;
+  }
+  #akhir h2 {
+    font-size: 1.7rem;
+  }
+  #akhir p {
+    font-size: 0.9rem;
+  }
+  #akhir h4 {
+    font-size: 1.4rem;
+    padding-top: 10px;
+  }
+  footer p {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 4px;
+  }
+  .navbar-brand {
+    font-weight: 640;
+    font-size: 1.1rem;
+  }
+  #hero {
+    min-height: 450px;
+  }
+  #hero h2 {
+    font-size: 1.2rem;
+  }
+  #hero h1 {
+    font-size: 2.4rem;
+  }
+  #hero h3 {
+    font-size: 1.05rem;
+  }
+  #hero p {
+    font-size: 0.7rem;
+  }
+  .foto1 {
+    width: 75%;
+  }
+  .btn-custom1 {
+    min-width: 95px;
+    height: 32px;
+    font-size: 0.9rem;
+    border-radius: 6px;
+    padding-top: 3.8px;
+  }
+  .email {
+    width: 16px;
+  }
+  .glass-card {
+    width: 110%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .tentang {
+    width: 100%;
+    margin-top: 24px;
+  }
+  #about h3 {
+    font-size: 1.1rem;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  #about p {
+    font-size: 0.7rem;
+  }
+  #skill {
+    margin-bottom: 34px;
+  }
+  .glass-card2 {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+  }
+  #skill h3 {
+    font-size: 1.1rem;
+    margin-bottom: 14px;
+  }
+  #skill p {
+    font-size: 0.65rem;
+  }
+  .icon {
+    width: 100%;
+    gap: 40px 20px; /* vertikal horizontal */
+    margin-top: 10px;
+  }
+  .projek {
+    padding: 14px 10px;
+    border-radius: 40px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 18px;
+  }
+  .project-container {
+    gap: 18px;
+  }
+  .project-card {
+    width: 140px;
+    height: 210px;
+    border-radius: 100px 100px 12px 12px;
+    padding-top: 13px;
+  }
+  #projects h4 {
+    font-size: 0.9rem;
+  }
+  .detail-btn {
+    font-size: 0.7rem;
+    margin-top: 5px;
+    padding: 6px 16px;
+    border-radius: 30px;
+  }
+  #akhir {
+    min-height: 110px;
+    padding-top: 2px;
+  }
+  #akhir h2 {
+    font-size: 1.5rem;
+  }
+  #akhir p {
+    font-size: 0.75rem;
+  }
+  #akhir h4 {
+    font-size: 1.3rem;
+    padding-top: 10px;
+  }
+  footer p {
+    font-size: 0.6rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar {
+    padding: 3px;
+  }
+  .navbar-toggler-icon {
+    width: 1.1em;
+    height: 1.1em;
+  }
+  .navbar-brand {
+    font-weight: 640;
+    font-size: 1rem;
+  }
+  #hero {
+    min-height: 580px;
+    padding-top: 80px;
+  }
+  #hero h2 {
+    font-size: 1.3rem;
+  }
+  #hero h1 {
+    font-size: 2.5rem;
+  }
+  #hero h3 {
+    font-size: 1.1rem;
+  }
+  #hero p {
+    font-size: 0.8rem;
+  }
+  .foto1 {
+    width: 50%;
+  }
+  .btn-custom1 {
+    min-width: 96px;
+    height: 34px;
+    font-size: 0.9rem;
+    border-radius: 6px;
+    padding-top: 3.8px;
+  }
+  .email {
+    width: 16px;
+  }
+  .glass-card {
+    width: 110%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .tentang {
+    width: 100%;
+    margin-top: 16px;
+  }
+  #about h3 {
+    font-size: 1.2rem;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  #about p {
+    font-size: 0.9rem;
+  }
+  #skill {
+    margin-bottom: 34px;
+  }
+  .glass-card2 {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+  }
+  #skill h3 {
+    font-size: 1.3rem;
+    margin-bottom: 14px;
+  }
+  #skill p {
+    font-size: 0.85rem;
+  }
+  .icon {
+    gap: 40px 40px; /* vertikal horizontal */
+  }
+  .projek {
+    padding: 14px 10px;
+    border-radius: 40px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 18px;
+  }
+
+  .project-card {
+    width: 145px;
+    height: 210px;
+    border-radius: 100px 100px 12px 12px;
+    padding-top: 13px;
+  }
+  #projects h4 {
+    font-size: 0.9rem;
+  }
+  .detail-btn {
+    font-size: 0.7rem;
+    margin-top: 5px;
+    padding: 6px 16px;
+    border-radius: 30px;
+  }
+  #akhir {
+    min-height: 120px;
+    padding-top: 2px;
+  }
+  #akhir p {
+    font-size: 0.8rem;
+  }
+  #akhir h4 {
+    font-size: 1.3rem;
+    padding-top: 10px;
+  }
+}
+
+@media (max-width: 360px) {
+}
+
+@media (max-width: 320px) {
+  #skill p {
+    font-size: 0.74rem;
+  }
+}
