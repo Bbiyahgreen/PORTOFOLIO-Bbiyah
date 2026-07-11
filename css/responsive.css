@@ -266,6 +266,9 @@
   .navbar {
     padding: 3px;
   }
+  .nav-link {
+    font-size: 0.8rem;
+  }
   .navbar-toggler-icon {
     width: 1.1em;
     height: 1.1em;
