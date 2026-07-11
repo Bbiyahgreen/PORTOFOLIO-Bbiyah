@@ -14,6 +14,7 @@ body {
   min-height: 100vh;
   font-family: "inter", sans-serif;
 }
+
 /* Navbar */
 .nav-link.active {
   color: var(--acsentColor) !important;
